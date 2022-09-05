@@ -12,7 +12,7 @@ Notification system at all levels
 ## Prerequisite
 
 - Mongo DB locally installed and running
-- Notification Service installed and running : https://github.com/Vishwa07dev/NotificationService
+- Notification Service installed and running : https://github.com/BahureVishal01/NotificationServiceforMBA.git
 
 ## Tech
 - Node.js
