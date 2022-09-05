@@ -28,6 +28,7 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 cd mba
 npm install
+npm run devStart
 ```
 
 
