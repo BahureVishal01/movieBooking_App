@@ -1,0 +1,19 @@
+{
+  "name": "moviebooking_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BahureVishal01/movieBooking_App.git"
+  },
+  "author": "\"vishal\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BahureVishal01/movieBooking_App/issues"
+  },
+  "homepage": "https://github.com/BahureVishal01/movieBooking_App#readme"
+}
