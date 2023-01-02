@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 
-
 /**
  * Defines the schema of the movie resource to be stored in the DB
  */

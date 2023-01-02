@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # MBA - Movie Booking Application  Backend 
 
 
@@ -32,6 +31,6 @@ cd mba
 npm install
 npm run devStart
 ```
->>>>>>> c33b90671a8ad752de20da5474991d6b24993b1d
+
 
 

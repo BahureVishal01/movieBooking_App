@@ -15,7 +15,6 @@ exports.createTheatre = async (req, res) => {
         pinCode: req.body.pinCode
 
     }
-
     const theatre = await Theatre.create(theatreObject);
 
     /**

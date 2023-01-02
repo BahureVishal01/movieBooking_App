@@ -2,8 +2,6 @@ const Booking = require("../models/booking.model");
 const User = require("../models/user.model");
 const constants = require("../utils/constants");
 
-
-
 /**
  * Get the list of all the bookings.
  * ADMIN user should get the list of all the bookings

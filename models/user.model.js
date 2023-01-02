@@ -48,8 +48,7 @@ const userSchema = new mongoose.Schema({
         default: "APPROVED"
     }
     
-
-})
+});
 
 
 module.exports = mongoose.model("User", userSchema);

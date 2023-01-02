@@ -6,6 +6,7 @@ const Movie = require("../models/movie.model");
  * Get the list of all the movies
  * Allow the filtering based on the name
  */
+
 exports.getAllMovies = async (req, res) => {
 
     const queryObj = {};
@@ -19,7 +20,7 @@ exports.getAllMovies = async (req, res) => {
 
 }
 
-
+ 
 /**
  * Get the movie based on the id
  */
@@ -91,5 +92,5 @@ exports.deleteMovie = async (req, res) => {
     res.status(200).send({
         message: "Successfully delete movie with id [ " + req.params.id + " ]"
     });
-
 };
+

@@ -28,5 +28,4 @@
         expired : 'EXPIRED'
     },
     ticketPrice : 150
-    
-}
+};

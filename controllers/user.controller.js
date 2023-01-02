@@ -23,7 +23,6 @@ exports.update = async (req, res) => {
     };
 }
 
-
 /**
  * Update the user status
  */

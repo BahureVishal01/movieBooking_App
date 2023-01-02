@@ -4,7 +4,6 @@ const constants = require("../utils/constants");
 const User = require("../models/user.model");
 const sendEmail = require("../utils/NotificationClient").sendEmail;
 
-
 /**
  * Get the list of all the payments.
  * ADMIN user should get the list of all the payments

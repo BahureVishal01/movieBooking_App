@@ -58,7 +58,7 @@ const movieSchema = new mongoose.Schema({
     }  
 },{
     //versionKey: false // this will remove the __v field, which indicates the internal revision of the document
-})
+});
 
 
 

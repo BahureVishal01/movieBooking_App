@@ -23,5 +23,4 @@ exports.sendEmail = (ticketId, subject, content, emailIds, requester) => {
         console.log(data);
     });
 
-
-}
+};
